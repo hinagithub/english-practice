@@ -1,0 +1,101 @@
+English,Japanese
+The deployment was successful.,デプロイは成功しました。
+Please check the server logs.,サーバーログを確認してください。
+This bug occurs only in production.,このバグは本番環境でのみ発生します。
+Let's roll back the latest release.,最新のリリースをロールバックしましょう。
+I'm debugging the API response.,APIのレスポンスをデバッグしています。
+The database query is too slow.,データベースクエリが遅すぎます。
+We need to optimize the performance.,パフォーマンスを最適化する必要があります。
+Please review my pull request.,プルリクエストをレビューしてください。
+We are using continuous integration.,継続的インテグレーションを使用しています。
+There is a merge conflict.,マージコンフリクトが発生しました。
+Can you reproduce the issue?,問題を再現できますか？
+I pushed the changes to the repository.,リポジトリに変更をプッシュしました。
+Let’s check the network request in the browser.,ブラウザのネットワークリクエストを確認しましょう。
+The test cases are failing.,テストケースが失敗しています。
+This function has a side effect.,この関数には副作用があります。
+Use environment variables instead of hardcoding.,ハードコードの代わりに環境変数を使ってください。
+The memory usage is too high.,メモリ使用量が高すぎます。
+It’s just a syntax error.,単なる構文エラーです。
+Let's add some logging here.,ここにログを追加しましょう。
+This is a security vulnerability.,これはセキュリティの脆弱性です。
+The request timed out.,リクエストがタイムアウトしました。
+The endpoint is not reachable.,エンドポイントに接続できません。
+Please read the documentation.,ドキュメントを読んでください。
+I’ve opened an issue on GitHub.,GitHubにIssueを作成しました。
+Use async/await for asynchronous code.,非同期コードにはasync/awaitを使いましょう。
+Let’s schedule a code review.,コードレビューの予定を立てましょう。
+This is a breaking change.,これは互換性のない変更です。
+We should write unit tests.,ユニットテストを書くべきです。
+Can you deploy it to staging?,ステージングにデプロイしてくれますか？
+This library is deprecated.,このライブラリは非推奨です。
+We need to handle edge cases.,端のケースも考慮する必要があります。
+I’ll refactor the code.,コードをリファクタリングします。
+The build is failing.,ビルドが失敗しています。
+Let's use Docker for local development.,ローカル開発にはDockerを使いましょう。
+I’ll update the dependencies.,依存関係を更新します。
+Check the version compatibility.,バージョンの互換性を確認してください。
+We should cache the results.,結果をキャッシュすべきです。
+It’s just a warning. not an error.,これはエラーではなく警告です。
+The frontend and backend are out of sync.,フロントエンドとバックエンドが同期していません。
+Use the latest stable version.,最新の安定版を使ってください。
+The token has expired.,トークンの有効期限が切れています。
+This is a non-blocking operation.,これは非ブロッキング操作です。
+Let’s review the architecture.,アーキテクチャを見直しましょう。
+This logic is too complex.,このロジックは複雑すぎます。
+You should separate concerns.,関心の分離をすべきです。
+It’s a race condition.,これは競合状態です。
+Please sanitize the input.,入力をサニタイズしてください。
+Let’s run load testing.,負荷テストを実施しましょう。
+The service is not responding.,サービスが応答しません。
+Check your internet connection.,インターネット接続を確認してください。
+We can use feature flags.,フィーチャーフラグを使用できます。
+This branch is out of date.,このブランチは古くなっています。
+It works on my machine.,自分の環境では動きます。
+Let’s automate this task.,この作業を自動化しましょう。
+This code is not maintainable.,このコードは保守しづらいです。
+That’s an anti-pattern.,それはアンチパターンです。
+Let’s follow the coding guidelines.,コーディングガイドラインに従いましょう。
+Use a linter to enforce style rules.,スタイルルールを強制するためにリンターを使いましょう。
+This operation is idempotent.,この操作は冪等です。
+Let’s write integration tests.,統合テストを書きましょう。
+The request payload is invalid.,リクエストのペイロードが無効です。
+You need to authenticate first.,まず認証してください。
+This is just a placeholder.,これは単なるプレースホルダーです。
+Can you check the console output?,コンソール出力を確認してくれますか？
+Let's split this into smaller functions.,これを小さな関数に分けましょう。
+I’ve added comments for clarity.,わかりやすくするためにコメントを追加しました。
+Don’t forget to handle errors.,エラー処理を忘れないでください。
+This API is rate-limited.,このAPIはレート制限されています。
+Let’s update the README.,READMEを更新しましょう。
+Please provide a reproducible example.,再現可能な例を提供してください。
+That’s outside the scope of this PR.,それはこのPRのスコープ外です。
+This approach is more scalable.,このアプローチの方がスケーラブルです。
+Let’s pair program on this.,ペアプログラミングしましょう。
+This code is not DRY.,このコードはDRYではありません。
+Let’s avoid global state.,グローバルステートを避けましょう。
+Use interfaces for abstraction.,抽象化にはインターフェースを使いましょう。
+We need a better error message.,もっと良いエラーメッセージが必要です。
+This is a memory leak.,これはメモリリークです。
+Let’s add retry logic.,リトライ処理を追加しましょう。
+That’s a legacy system.,それはレガシーシステムです。
+Let’s schedule regular backups.,定期的なバックアップをスケジュールしましょう。
+This endpoint returns JSON.,このエンドポイントはJSONを返します。
+Can you test it on another device?,他のデバイスでテストしてくれますか？
+We should use pagination.,ページネーションを使うべきです。
+Let’s enable verbose logging.,詳細ログを有効にしましょう。
+This issue is related to CORS.,この問題はCORSに関連しています。
+I’ve added validation rules.,バリデーションルールを追加しました。
+The build process is broken.,ビルドプロセスが壊れています。
+Let's use a service worker.,サービスワーカーを使いましょう。
+This method is deprecated.,このメソッドは非推奨です。
+Let's use HTTPS.,HTTPSを使いましょう。
+This is a known limitation.,これは既知の制限です。
+Let’s fix this in a separate patch.,これは別のパッチで修正しましょう。
+That’s a known issue with the library.,それはそのライブラリに関する既知の問題です。
+This route requires authentication.,このルートには認証が必要です。
+The request method is not allowed.,リクエストメソッドが許可されていません。
+I’ll create a minimal reproducible example.,最小限の再現例を作成します。
+Can you test it on a clean environment?,クリーンな環境でテストしてくれますか？
+This is a performance bottleneck.,これはパフォーマンスのボトルネックです。
+Let’s update the changelog.,チェンジログを更新しましょう。
