@@ -1,17 +1,28 @@
-## URL
+# English Practice API 🇺🇸→🇯🇵
 
+英語フレーズとその日本語訳をランダムで返す API。Cloud Run にデプロイしています。
 
-[Cloud Run](https://english-practice-1064724819814.us-central1.run.app/)
-```
-https://english-practice-1064724819814.us-central1.run.app/
-```
+---
 
+## 🌐 URL
 
-## セットアップ
+[Cloud Run 本番環境](https://english-practice-1064724819814.us-central1.run.app/)
 
-Google Cloud SDKが必要
+例：
 
-```
+- トップページ:  
+  `https://english-practice-1064724819814.us-central1.run.app/`
+
+- ランダム英語フレーズ:  
+  `https://english-practice-1064724819814.us-central1.run.app/random`
+
+---
+
+## 🛠 セットアップ手順
+
+### Google Cloud SDK のインストール
+
+```sh
 brew install --cask google-cloud-sdk
 gcloud version
 
@@ -27,7 +38,7 @@ gcloud init
 →サインインや認証などする
 
 
-## ローカル実行
+## 🏃‍♀️ ローカル実行
 ```
 go run main.go
 ```
@@ -36,14 +47,9 @@ go run main.go
 curl http://localhost:8080
 ```
 
-## デプロイ
+## ✨ デプロイ
 
 ```
-gcloud run deploy english-practice \
-  --source . \
-  --region us-central1 \
-  --project hinaproject-460723 \
-  --platform managed \
-  --allow-unauthenticated
+make deploy
 ```
 
