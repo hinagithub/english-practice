@@ -1,3 +1,9 @@
+## URL
+
+```
+https://english-practice-1064724819814.us-central1.run.app/
+```
+
 
 ## セットアップ
 
@@ -17,6 +23,16 @@ gsutil 5.34
 gcloud init
 ```
 →サインインや認証などする
+
+
+## ローカル実行
+```
+go run main.go
+```
+
+```
+curl http://localhost:8080
+```
 
 ## デプロイ
 
