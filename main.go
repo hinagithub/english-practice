@@ -54,7 +54,8 @@ func randomHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintln(w, "Welcome back. You're doing great studying today, too! 👏")
+	date := time.Date(2025, 6, 4, 9, 30, 0, 0, time.Local).Format(time.DateTime)
+	fmt.Fprintln(w, "Welcome back. You're doing great studying today, too! 👏  This wep app updated at: "+date)
 }
 
 func main() {
